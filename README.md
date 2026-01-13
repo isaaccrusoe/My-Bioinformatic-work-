@@ -7,7 +7,7 @@ Antimicrobial resistance (AMR) poses a major global health threat. Understanding
 
 In this project, I analyzed **Glutathione transferase FosA**, a protein that confers resistance to **fosfomycin** by catalyzing the addition of glutathione to the drug. This enzyme is found in *Pseudomonas aeruginosa* (strain ATCC 15692), a clinically significant pathogen.
 
-![FosA Protein Structure](results/plots/fosA_alphafold_structure.png)
+
 
 ---
 
