@@ -1,0 +1,15 @@
+# Results
+
+## Protein Annotation
+UniProt analysis revealed FosA as a glutathione transferase involved in antibiotic detoxification.
+
+## Structural Insights
+- AlphaFold predicted a stable and well-folded structure
+- Active regions correspond with known catalytic mechanisms
+- Structural visualization highlighted the protein’s functional architecture
+
+## Visual Outputs
+- AlphaFold 3D model
+- PyMOL-rendered protein structure
+
+These findings provide molecular insight into fosfomycin resistance mechanisms.
